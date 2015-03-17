@@ -29,3 +29,6 @@ It is recommended that the user set 'Window->Preferences, Java->Editor->Content 
 
 #How to use
 Use Eclipse to Import the whole source to workspase,check the code like above,then Export－>Deployable plugins and fragments,click Next,choose Destination TabControl,choose Directory and Finish.A new file was generated like "org.eclipse.jface.text_3.9.2.v20141003-1326.jar",copy the jar file to Eclipse's installation directory "./eclipse/plugins/" and cover the original one.Of coures you'd better to backup the original one for insurance purposes.At last,reboot the Eclipse.
+
+#How to download the original code source
+I download the source from [here](http://archive.eclipse.org/eclipse/downloads/).
